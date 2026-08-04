@@ -1,11 +1,20 @@
-## Hi there 👋
+<h1 align="left">Hi there! I'm Kauã Burin 👋</h1>
+
+<div align="left">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=2F81F7&width=650&lines=Software+Developer;Systems+Analysis+and+Development+Student;Python+%7C+Java+%7C+JavaScript;Always+learning+and+building+new+things"
+    alt="Typing introduction"
+  />
+</div>
+
+###
 
 <p align="left">
-  I'm Kauã Burin, a Software Developer and Systems Analysis & Development student from Brazil 🇧🇷
+  I'm a Software Developer and Systems Analysis and Development student from Brazil 🇧🇷
   <br><br>
   I have a technical background in Systems Development and I am currently studying Systems Analysis and Development at FATEC Americana.
   <br><br>
-  I enjoy working with Python, Java, JavaScript, Node.js, Flask and MySQL, building projects that combine logic, creativity and real-world applications.
+  I enjoy working with Python, Java, JavaScript and MySQL, creating solutions that combine logic, creativity and real-world applications.
   <br><br>
   I'm passionate about technology, software development, databases and automation. I'm always looking for new challenges and opportunities to improve my skills and turn ideas into useful solutions.
 </p>
@@ -87,11 +96,19 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kau%C3%A3-burin-salustiano-1763172b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://www.instagram.com/kaua.burin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Instagram"
+    />
   </a>
 </div>
 
